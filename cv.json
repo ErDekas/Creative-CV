@@ -1,0 +1,159 @@
+{
+    "basics": {
+        "name": "Pablo Linares López",
+        "label": "Web Developer con 1 año de experiencia",
+        "image": "./assets/images/PabloLinaresLopez.jpeg",
+        "email": "pablotrabajos42@gmail.com",
+        "phone": "+34 622 86 44 27",
+        "url": "",
+        "summary": "1 año de experiencia como Desarrollador Web. Actualmente estudiando como Técnico Superior de Desarrollo de Aplicaciones Web",
+        "location": {
+            "address": "",
+            "postalCode": "18360",
+            "city": "Granada",
+            "countryCode": "ES",
+            "region": "España"
+        },
+        "profiles": [
+        {
+            "network": "LinkedIn",
+            "username": "Pablo Linares",
+            "url": "https://www.linkedin.com/in/pablo-linares-9696602b4/"
+        },
+        {
+            "network": "GitHub",
+            "username": "ErDekas",
+            "url": "https://github.com/ErDekas"
+        }]    },
+    "work": [{
+        "name": "OAL",
+        "position": "Niñero",
+        "url": "https://oalhuetortajar.com/",
+        "startDate": "2023-07-01",
+        "endDate": "2023-09-11",
+        "summary": "Niñero 4 horas al día 5 días a la semana",
+        "highlights": [
+            "Started the company"
+        ]
+    },
+    {
+        "name": "Chiringito Los Cañamones",
+        "position": "Camarero",
+        "url": null,
+        "startDate": "2023-06-03",
+        "endDate": "2023-06-26",
+        "summary": "Camarero 12 horas al día 6 día a la semana",
+        "highlights": [
+            "Started the company"
+        ]
+    }],
+    "education": [
+    {
+        "institution": "Instituto",
+        "url": "https://www.iesamericocastro.com/blank-onr57",
+        "area": "Ciencias",
+        "studyType": "Bachillerato",
+        "startDate": "2021-09-15",
+        "endDate": "2023-05-21",
+        "score": "8.0",
+        "courses": [
+            "Matemáticas académicas",
+            "Inglés",
+            "Física",
+            "Química",
+            "Informática",
+            "Programación",
+            "Lengua Castellana y Literatura"
+        ]
+    },
+    {
+        "institution": "Instituto",
+        "url": "https://www.iesayala.com/",
+        "area": "Grado Superior de Desarrollo de Aplicaciones Web",
+        "studyType": "Técnico Superior de Desarrollo de Aplicaciones Web",
+        "startDate": "2023-09-15",
+        "endDate": "",
+        "score": "",
+        "courses": [
+            "Programación",
+            "Bases de Datos",
+            "Entornos de Desarrollo",
+            "Lenguajes de Marca y Sistema de Gestión de Datos",
+            "Sistemas Informáticos",
+            "FOL"
+        ]
+    }],
+    "skills": [{
+        "name": "Desarrollo Web",
+        "level": "Avanzado",
+        "keywords": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Programación",
+        "level": "Intermedio",
+        "keywords": [
+            "Java"
+        ]
+    },
+    {
+        "name": "Bases de Datos",
+        "level": "Avanzado",
+        "keywords": [
+            "MySQL",
+            "Oracle"
+        ]
+    },
+    {
+        "name": "Entornos de Desarrollo",
+        "level": "Intermedio",
+        "keywords": [
+            "Visual Studio Code",
+            "IntelliJ IDEA",
+            "GitHub",
+            "Git"
+        ]
+    }],
+    "languages": [
+        {
+        "language": "Español",
+        "fluency": "Hablante nativo"
+    },
+    {
+        "language": "Inglés",
+        "fluency": "B1"
+    }],
+    "interests": [{
+        "name": "Anime",
+        "keywords": [
+            "One Piece",
+            "Fairy Tail"
+        ]
+    },
+    {
+        "name": "Videojuegos",
+        "keywords": [
+            "League of Legends",
+            "Honkai Star Rail"
+        ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "100 Proyectos de Desarrollo Web",
+      "startDate": "2024-03-13",
+      "endDate": null,
+      "description": "100 proyectos con los que trabajar en JS con los que ir mejorando el nivel",
+      "highlights": [
+        ""
+      ],
+      "url": "https://github.com/ErDekas/100-Proyectos-JS",
+      "isActive" : true,
+      "github": "https://github.com/ErDekas/100-Proyectos-JS"
+    }]
+  }
